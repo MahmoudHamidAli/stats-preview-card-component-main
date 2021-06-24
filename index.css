@@ -112,7 +112,7 @@ a {
     }
     
     .img-box {
-        background-image: url("./images/image-header-desktop.jpg");
+        background-image: url("https://i.ibb.co/Zznj8bh/image-header-desktop.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         min-height: 446px;
@@ -231,7 +231,7 @@ h1 {
 }
 
 .img-box {
-    background-image: url("./images/image-header-desktop.jpg");
+    background-image: url("https://i.ibb.co/Zznj8bh/image-header-desktop.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
